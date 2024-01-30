@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mohammadsaeediaf2005@gmail.com**
 
-- ⚡ Fun fact **I Practice Parkour(Freerunning)**
+- ⚡ Fun fact **I do Parkour(Freerunning)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
