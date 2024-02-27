@@ -3,7 +3,6 @@
 <br><br> 
 <p align="center">
 
-  
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/76bd131b4aa3447eb9f9d0887972c066.gif" width="40%" align="right"/>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadsaeediaf&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadsaeediaf" /> </p>
