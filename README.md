@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about  **Html,Css,Javascript** 
+- 💬 Ask me about  **Html,Css,Javascript**
 
 - 📫 How to reach me **businessmailmohammad@gmail.com**
 
